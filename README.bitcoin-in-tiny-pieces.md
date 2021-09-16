@@ -1,6 +1,6 @@
 
 
-# Ejemplo basado en "bitcoin-in-pieces"
+# Ejemplo basado en "bitcoin-in-tiny-pieces"
 
 Está escrito en python. Para Linux y MacOS:
 
