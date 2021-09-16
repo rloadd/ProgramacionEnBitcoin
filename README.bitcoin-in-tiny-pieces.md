@@ -31,7 +31,7 @@ El uso de la API se localiza en "bitcoin-test-address-balance.sh"
 En este caso no se descargan UTXO si no el balance resultante calculado por bitcoin.com
 
 
-Estos scripts se pueden ejecutar asilados o con un pipe que los encadena. Como se ve aceptan un parámetro posiciona y retornan un único resultado por salida estándar.  
+Estos scripts se pueden ejecutar aislados o con un pipe ("|") que los encadena. Ver el script de shell de ejemplo. Como se ve, aceptan un parámetro posicional y retornan un único resultado.  
 
 
 
