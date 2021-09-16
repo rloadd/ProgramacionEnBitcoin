@@ -1,0 +1,13 @@
+version: "2"
+
+services:
+  mainnet:
+    image: bitcoinsv/bitcoin-sv
+    ports:
+      - "8332:8332"
+      - "8333:8333"
+      - "18332:18332"
+      - "18333:18333"
+    volumes:
+      - ./:/home/bitcoin/.bitcoin
+    

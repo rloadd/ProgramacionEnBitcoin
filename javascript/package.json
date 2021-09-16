@@ -1,0 +1,17 @@
+{
+  "name": "ejemplos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "from_cold_wallet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bip32": "^2.0.6",
+    "bip39": "^3.0.4",
+    "bitcoinjs-lib": "^5.2.0",
+    "bsv": "^1.0.0"
+  }
+}
