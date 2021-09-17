@@ -1,7 +1,11 @@
 
 # Ejemplos 
 
-De lo visto en clase hemos hecho una selección de ejemplos en Javascript
+De lo visto en clase hemos hecho una selección de ejemplos en Javascript.
+
+IMPORTANTE: es tu responsabilidad asegurarte de que generas claves y direcciones para la cadena correcta. Ten encuenta la "network" y la cadena de derivación. Las claves y semillas que encuentre en estos scripts no son seguras.
+
+
 
 ## Instalación de requisitos
 

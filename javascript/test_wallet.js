@@ -22,9 +22,9 @@ for (let i = 1; i<250; i=i+1) {
 }
 return; 
 */
-
+console.log("OJO!!!!!! DIRECCIONES Y CLAVES PARA TESTNET");
 mpath =  "m/44'/145'/0'/";
-console.log(r.deriveAll(hdPrivateKey, 'mainnet', mpath, 'receive',start,qty));
-console.log(r.deriveAll(hdPrivateKey, 'mainnet', mpath, 'change',start,qty));
+console.log(r.deriveAll(hdPrivateKey, 'testnet', mpath, 'receive',start,qty));
+console.log(r.deriveAll(hdPrivateKey, 'testnet', mpath, 'change',start,qty));
 
 
