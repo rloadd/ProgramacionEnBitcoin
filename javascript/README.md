@@ -28,6 +28,6 @@ node test_wallet.js
 
 ## Cadenas y librerías
 
-Los scripts que empiezan por test_* hacen uso de la librería "bsv". Por defecto trabajan derivando y formateando claves para esa cadena. Los restantes usarn bitcoinjs-liby generan los ejemplos sobre BTC. Ambas librerías son equivalentes en cuestión de generación de claves y direcciones aunque hay que personalizar un poco más los scripts para que cambie de cadena. 
+Los scripts que empiezan por test_* hacen uso de la librería "bsv". Por defecto trabajan derivando y formateando claves para esa cadena. Los restantes usarn "bitcoinjs-lib" y generan los ejemplos sobre BTC. Ambas librerías son equivalentes en cuestión de generación de claves y direcciones aunque hay que personalizar un poco más los scripts para que cambie de cadena. 
 
 

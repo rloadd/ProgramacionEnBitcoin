@@ -1,10 +1,11 @@
 
+# Intro
 
 docker-compose es una utilidad para arracar uno o varios contenedores usando una configuración de orquestación en formato .yml.
 
 Cuando ejecutamos
 
-````
+```
 docker-compose up
 ```
 
@@ -20,6 +21,6 @@ Podrán convivir los datos sincronizados de cada nodo puesto que van a alojarse 
 
 # Resincronizar
 
-Si se detiene o lo detenemos, se puede rearrancar el software del nodo sin problemas en la mayoría de los casos. Dependerá del motivo de la parada. En ese caso cargará lo que tenía y empezará a solicitar los bloques  a partir del último que conserva.
+Si se detiene el nodo o lo detenemos forzosamente, se puede rearrancar sin problemas en la mayoría de los casos. Dependerá del motivo de la parada. En ese caso cargará lo que tenía e intentará empezar por el mismo punto en el se quedó.
 
 
